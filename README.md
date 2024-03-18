@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👩‍💻 Hello, I'm Amanda!
 
-<!--
-**amandakoka/amandakoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web development student currently pursuing a diploma with Code Institute. Despite being new to the tech world, I thrive on the constant learning and evolution it demands, making it the perfect fit for my career aspirations. I'm eager to contribute to innovative projects and collaborate with like-minded professionals.
 
-Here are some ideas to get you started:
+## 📎 Languages:
+- HTML
+- CSS
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😆 Fun Facts:
+- I love to draw!!
+- I love travelling (I have been to 10+ countries).
+- In my free time I enjoy watching series and films (I'm currently watching criminal minds).
