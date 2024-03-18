@@ -3,10 +3,7 @@
 I'm a passionate web development student currently pursuing a diploma with Code Institute. Despite being new to the tech world, I thrive on the constant learning and evolution it demands, making it the perfect fit for my career aspirations. I'm eager to contribute to innovative projects and collaborate with like-minded professionals.
 
 ## 📎 Languages:
-- HTML
-- CSS
-- JavaScript
-- Python
+`HTML` `CSS` `JavaScript` `Python`
 
 ## 😆 Fun Facts:
 - I love to draw!!
