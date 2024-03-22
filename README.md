@@ -9,3 +9,14 @@ I'm a passionate web development student currently pursuing a diploma with Code 
 - I love to draw!!
 - I have been to 10+ countries.
 - In my free time I enjoy watching series and films (I'm currently watching criminal minds).
+
+## Milestone projects for Code Institute Diploma 
+
+Overall Diploma Grade: Pending
+
+| Milestone No.   | Project | Grade | 
+| :-----------: | :-----------: | :-----------: | 
+| 1 | Autism awareness website | Merit |
+| 2| World Flags Quiz | Merit |
+| 3 |   |  |
+| 4 |   |  |
