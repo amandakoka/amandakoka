@@ -17,6 +17,6 @@ Overall Diploma Grade: Pending
 | Milestone No.   | Project | Grade | 
 | :-----------: | :-----------: | :-----------: | 
 | 1 | Autism awareness website | Merit |
-| 2| World Flags Quiz | Merit |
+| 2| World Flags Quiz |  |
 | 3 |   |  |
 | 4 |   |  |
