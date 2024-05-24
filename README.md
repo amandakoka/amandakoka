@@ -18,5 +18,5 @@ Overall Diploma Grade: Pending
 | :-----------: | :-----------: | :-----------: | 
 | 1 | Autism awareness website | Merit |
 | 2| World Flags Quiz |  |
-| 3 |   |  |
+| 3 | BookWish  |  |
 | 4 |   |  |
