@@ -8,7 +8,7 @@ I'm a passionate web development student currently pursuing a diploma with Code 
 ## 😆 Fun Facts:
 - I love to draw!!
 - I have been to 10+ countries.
-- In my free time I enjoy watching series and films (I'm currently watching criminal minds).
+- In my free time I enjoy watching series and films.
 
 ## Milestone projects for Code Institute Diploma 
 
