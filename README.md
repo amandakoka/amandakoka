@@ -1,6 +1,6 @@
 ### 👩‍💻 Hello, I'm Amanda!
 
-I'm a passionate web development student currently pursuing a diploma with Code Institute. Despite being new to the tech world, I thrive on the constant learning and evolution it demands, making it the perfect fit for my career aspirations. I'm eager to contribute to innovative projects and collaborate with like-minded professionals.
+Despite being new to the tech world, I thrive on the constant learning and evolution it demands, making it the perfect fit for my career aspirations. I'm eager to contribute to innovative projects and collaborate with like-minded professionals.
 
 ## 📎 Languages:
 `HTML` `CSS` `JavaScript` `Python`
@@ -12,11 +12,11 @@ I'm a passionate web development student currently pursuing a diploma with Code 
 
 ## Milestone projects for Code Institute Diploma 
 
-Overall Diploma Grade: Pending
+Overall Diploma Grade: Merit
 
 | Milestone No.   | Project | Grade | 
 | :-----------: | :-----------: | :-----------: | 
 | 1 | Autism awareness website | Merit |
-| 2| World Flags Quiz |  |
-| 3 | BookWish  |  |
-| 4 |   |  |
+| 2| World Flags Quiz | Pass |
+| 3 | BookWish | Merit |
+| 4 |  Art with Amanda | Merit |
